@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Beza Adefris</h1>
+# Hi 👋, I'm Beza Adefris
 
-<h3 align="center">
-Frontend Developer • React Developer • Software Engineering Student
-</h3>
+### Frontend Developer • React.js Developer • Aspiring Full-Stack Engineer
+
+Building scalable and responsive web applications with React.js while strengthening my backend development skills using Node.js, Express.js, FastAPI, and MySQL.
+
 
 <p align="center">
 Building modern, responsive, and user-focused web applications with React and modern JavaScript.
@@ -23,11 +24,14 @@ Building modern, responsive, and user-focused web applications with React and mo
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering Student
-- 💻 Frontend Developer specializing in **React**
-- 🌱 Currently learning **Next.js, TypeScript, Node.js and FastAPI**
-- 🚀 Passionate about building modern web applications
-- 🤝 Open to internships and frontend opportunities
-- 🌍 Based in Ethiopia
+- 💻 Frontend Developer with experience in **React.js**, **JavaScript**, and modern web technologies
+- ⚙️ Skilled in building RESTful APIs using **Node.js**, **Express.js**, and **FastAPI**
+- 🗄️ Experienced with **MySQL** database design and management
+- 🌱 Currently learning **Next.js** and expanding my backend development skills
+- 🔍 Continuously learning new technologies and software development best practices
+- 💡 Interested in full-stack development, modern web architecture, and performance optimization
+- 🎯 Goal: To become a professional Full Stack Software Engineer and contribute to impactful products
+
 
 ---
 
