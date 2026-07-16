@@ -1,21 +1,20 @@
-# Hi 👋, I'm Beza Adefris
+<h1 align="center">Hi 👋, I'm Beza Adefris</h1>
 
-### Frontend Developer • React.js Developer • Aspiring Full-Stack Engineer
-
-Building scalable and responsive web applications with React.js while strengthening my backend development skills using Node.js, Express.js, FastAPI, and MySQL.
-
+<h3 align="center">
+  Frontend Developer • React.js Developer • Aspiring Full-Stack Engineer
+</h3>
 
 <p align="center">
-Building modern, responsive, and user-focused web applications with React and modern JavaScript.
+  Building scalable and responsive web applications with <strong>React.js</strong> while strengthening my backend development skills using <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>FastAPI</strong>, and <strong>MySQL</strong>.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/beza-adefris/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="https://t.me/fenuzy" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
 
@@ -38,9 +37,11 @@ Building modern, responsive, and user-focused web applications with React and mo
 ## 🚀 Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,php,mysql,java,cpp,git,github,vscode,figma&perline=8" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgres,git,github,vscode,figma&perline=8"/>
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI"/>
 </p>
 
 ---
