@@ -4,9 +4,6 @@
   Frontend Developer • React.js Developer • Aspiring Full-Stack Engineer
 </h3>
 
----
-
-## 👨‍💻 About Me
 
 - 🎓 Software Engineering Student
 - 💻 Frontend Developer with experience in **React.js**, **JavaScript**, and modern web technologies
@@ -18,7 +15,7 @@
 
 ## 🚀 Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,php,mysql,java,cpp,git,github,vscode,figma&perline=8" />
 </p>
 
@@ -28,7 +25,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Statistics
 
 <p align="center">
 
