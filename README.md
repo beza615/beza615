@@ -8,16 +8,6 @@
   Building scalable and responsive web applications with <strong>React.js</strong> while strengthening my backend development skills using <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>FastAPI</strong>, and <strong>MySQL</strong>.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/beza-adefris/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://t.me/fenuzy" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
