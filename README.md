@@ -4,21 +4,13 @@
   Frontend Developer • React.js Developer • Aspiring Full-Stack Engineer
 </h3>
 
-<p align="center">
-  Building scalable and responsive web applications with <strong>React.js</strong> while strengthening my backend development skills using <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>FastAPI</strong>, and <strong>MySQL</strong>.
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering Student
 - 💻 Frontend Developer with experience in **React.js**, **JavaScript**, and modern web technologies
-- ⚙️ Skilled in building RESTful APIs using **Node.js**, **Express.js**, and **FastAPI**
-- 🗄️ Experienced with **MySQL** database design and management
 - 🌱 Currently learning **Next.js** and expanding my backend development skills
-- 🔍 Continuously learning new technologies and software development best practices
-- 💡 Interested in full-stack development, modern web architecture, and performance optimization
 - 🎯 Goal: To become a professional Full Stack Software Engineer and contribute to impactful products
 
 
@@ -54,17 +46,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-🔹 Hotel Management System
-
-🔹 MenuGo Digital Menu
-
-🔹 Restaurant Management System
-
-🔹 Weather App
-
----
 
 ## 📫 Connect With Me
 
