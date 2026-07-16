@@ -11,7 +11,7 @@
 - 🎯 Goal: To become a professional Full Stack Software Engineer and contribute to impactful products
 
 
----
+
 
 ## 🚀 Tech Stack
 
