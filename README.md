@@ -61,7 +61,7 @@ Building modern, responsive, and user-focused web applications with React and mo
 
 ## 📌 Featured Projects
 
-🔹 Company Portfolio
+🔹 Hotel Management System
 
 🔹 MenuGo Digital Menu
 
